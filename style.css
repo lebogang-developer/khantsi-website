@@ -539,6 +539,9 @@ body {
   text-align: center;
 }
 
+.contact-title {
+  margin-bottom: 20px;
+}
 .contact-container {
   max-width: 800px;
   margin: 0 auto;
